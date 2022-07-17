@@ -1,0 +1,7 @@
+{
+  "homepage": "DaliPazmino.github.io/proyecto",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react-bootstrap": "^2.4.0"
+  }
+}
